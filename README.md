@@ -1,6 +1,5 @@
 # Generative-Adversarial-Network
 
-
 ---
 
 ## Abstract
