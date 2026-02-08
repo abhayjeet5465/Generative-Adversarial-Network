@@ -1,7 +1,5 @@
 # Generative-Adversarial-Network
 
----
-
 ## Abstract
 
 Generative Adversarial Networks (GANs) are powerful generative models capable of learning complex data distributions through adversarial training. This project presents the implementation of a basic GAN from scratch to generate handwritten digit images using the MNIST dataset. A fully connected Generator and Discriminator are trained simultaneously, where the Generator learns to synthesize realistic digit images from random noise, and the Discriminator learns to distinguish between real and generated samples. The results demonstrate that even a simple GAN architecture can successfully capture the structure of handwritten digits and produce visually recognizable outputs.
