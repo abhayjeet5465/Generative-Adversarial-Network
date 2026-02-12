@@ -1,4 +1,5 @@
 # Generative-Adversarial-Network
+<img width="1684" height="776" alt="image" src="https://github.com/user-attachments/assets/83bfa94f-2dd8-450c-a044-490d8bb3aeea" />
 
 ## Abstract
 
